@@ -1,21 +1,24 @@
 import ContactForm from "@/app/_components/contact-form";
-import Head from "next/head";
+import { Metadata } from "next";
 import Image from "next/image";
 import garageLitUp from "../public/assets/garageLitUp.webp";
 import ThreePosts from "./_components/three-posts";
 
+export const metadata: Metadata = {
+  title: "Guditus Speed and Fabrication - Car Blog - Build Gallery",
+  description: `Guditus Speed and Fabrication is a website created to document the progress around the Guditus Garage. Follow along on the Blog or the Build Gallery.`,
+  openGraph: {
+    title: "Guditus Speed and Fabrication - Car Blog - Build Gallery",
+    description: `Guditus Speed and Fabrication is a website created to document the progress around the Guditus Garage. Follow along on the Blog or the Build Gallery.`,
+    images: "./favicon/opengraph-image.jpg",
+    type: "website",
+    url: "https://gudspeedandfab.com",
+  },
+};
+
 export default function Index() {
   return (
     <main className="bg-eerie text-plat min-h-screen flex flex-col justify-center">
-      <Head>
-        <title>Guditus Speed and Fabrication - Car Blog - Build Gallery</title>
-        <meta
-          property="og:title"
-          content="Guditus Speed and Fabrication - Car Blog -  Build Gallery"
-        />
-        <link rel="canonical" href="https://gudspeedandfab.com" />
-      </Head>
-
       <div className="flex flex-col md:flex-row justify-center items-center font-stencil text-hugger text-xl md:text-2xl lg:text-3xl 2xl:text-4xl pt-10 mt-10 lg:mt-12 xl:mt-14">
         <Image
           src={garageLitUp}
