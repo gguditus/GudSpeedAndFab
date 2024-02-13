@@ -1,6 +1,6 @@
 ---
 title: "Introduction"
-excerpt: "Allow me to [Introduce] Myself [and my Dream Car]. This post is an intro to me, the blog, and this website."
+excerpt: "Allow me to [Introduce] Myself [and my Dream Car]. This post is an intro to me, my car, the blog, and this website."
 coverImage: "/assets/blog/introduction/OrangeCorvette.webp"
 date: "2023-12-01"
 ogImage:
