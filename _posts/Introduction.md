@@ -23,7 +23,7 @@ The car had a small block from a 1976 corvette with a 4-speed manual so neither 
 
 I learned how to drive a manual in the car, I loved the extra connection that the manual added to driving. We took it to Carlisle and we searched for all of the parts that the car needed, which weren't many. We bought new bumpers and other chrome bits, as the old ones had started to pit, and a new driver's side door panel. After those were installed the car was a stunner. The only part that was lacking was when it was driving, the car rode great, but the engine sounded lame and it was a bear to drive on the highway. We installed a Tremec tko-500 and a Magnaflow exhaust, and it transformed the car. I was in love driving it now. I drove the car to Carlisle in 2017 rat her than trailering it, and the car won a Celebrity Choice award. I'm not huge on awards, especially at car shows, but it was cool to win. I go to shows to see all of the other cars, so I rather the awards go to the people who go to the shows for that purpose.
 
-![My Orange 1969 Corvette Convertible](/assets/blog/introduction/OrangeCorvette.webp)
+![My Orange 1969 Corvette Convertible](/assets/blog/introduction/OrangeVetteFront.webp)
 
 ## To Chassis or Not To Chassis
 
@@ -32,6 +32,8 @@ We were still planning on resto-modding the car, but weren't sure on which direc
 The chassis had components from a 1997 Corvette, so the lowest power LS1 with a Tremec t56 transaxle, QA1 coilovers, C6 ZO6 wheels and tires, and a rack and pinion. The rear cradle from the C5 had been narrowed and the torque tube had been shortened. We quickly began researching what would need to be done to fit the chassis to the body, but kept running into a wall regarding the transaxle. We could not find any documentation of it being done in a C3 before. Eventually I found the website of a group of brothers in Hungary\* who had swapped the drivetrain from a C6 into the original C3 frame. It looked like the front of the transaxle was right where we feared, right in the hips of the driver and passenger. It really can't be in a worse spot, but that's the only way to fit it. The brothers from Hungary had done it, so it must be possible, but it seemed like a whole lot of squeezing for not so much juice.
 
 ### \* That website was called Hardcore Engine Builders Online, but unfortunately as of now the site has none of the pictures or information it previously had.
+
+![C3 Street Shop Chassis with full C5 suspension AND full C5 drivetrain](/assets/blog/introduction/chassis.webp)
 
 The vision for the car is being a driver's car first and foremost, since that's what we will be doing with it mostly. Keep the LS1, but build it up to have plenty of power to have some fun. Keep the transaxle because it will make the car even more unique than "just" a C3 with C5 suspension. We want the car to be impressive to see at a car show, but at the same time not a trailer queen. I likely will never find the time or opportunity to actually race the car, so I am not factoring in any rules or regulations from bodies like SCCA.
 
