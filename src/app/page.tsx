@@ -1,7 +1,7 @@
 import ContactForm from "@/app/_components/contact-form";
 import { Metadata } from "next";
 import Image from "next/image";
-import garageLitUp from "../public/assets/garageLitUp.webp";
+import garageLitUp from "../public/assets/garageLit.webp";
 import ThreePosts from "./_components/three-posts";
 
 export const metadata: Metadata = {
