@@ -33,7 +33,7 @@ The chassis had components from a 1997 Corvette, so the lowest power LS1 with a 
 
 ### \* That website was called Hardcore Engine Builders Online, but unfortunately as of now the site has none of the pictures or information it previously had.
 
-![C3 Street Shop Chassis with full C5 suspension AND full C5 drivetrain](/assets/blog/introduction/chassis.webp)
+![C3 Street Shop Chassis with full C5 suspension AND full C5 drivetrain](/assets/blog/introduction/Chassis.webp)
 
 The vision for the car is being a driver's car first and foremost, since that's what we will be doing with it mostly. Keep the LS1, but build it up to have plenty of power to have some fun. Keep the transaxle because it will make the car even more unique than "just" a C3 with C5 suspension. We want the car to be impressive to see at a car show, but at the same time not a trailer queen. I likely will never find the time or opportunity to actually race the car, so I am not factoring in any rules or regulations from bodies like SCCA.
 

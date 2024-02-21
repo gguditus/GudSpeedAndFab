@@ -27,12 +27,12 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <link rel="icon" href=".\favicon\favicon.ico" sizes="any" />
+        <link rel="icon" href="..\favicon\favicon.ico" sizes="any" />
         <link
           rel="apple-touch-icon"
           sizes="any"
           type="image/png"
-          href="./favicon/apple-icon.png"
+          href="../favicon/apple-icon.png"
         />
       </head>
       <body className={`${stencil.variable} ${display.variable}`}>
