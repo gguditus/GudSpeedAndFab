@@ -22,7 +22,7 @@ export function PostHeader({ title, coverImage, date, excerpt }: Props) {
       <div className="flex flex-col lg:flex-row justify-center items-center font-stencil text-hugger text-xl md:text-2xl lg:text-3xl 2xl:text-4xl p-2 m-3 md:m-5 rounded bg-space">
         <Image
           src={coverImage}
-          alt="my 1969 Corvette convertible in Monaco (Hugger) Orange"
+          alt={excerpt}
           priority
           blurDataURL="data:..."
           placeholder="blur"
