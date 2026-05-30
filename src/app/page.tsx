@@ -43,9 +43,9 @@ export default function Index() {
 
       <div className="flex flex-col font-display text-plat text-xl md:text-2xl lg:text-3xl 2xl:text-4xl m-2 md:m-5 lg:m-6 rounded bg-space shadow-md">
         <h2 className="m-3 md:m-5 lg:m-8">
-          As with any project in the shop, this website is a work in progress.
-          It was built with Next.JS and Tailwind and is hosted on Linode. All
-          development was done by Greg Guditus.
+          As with any project in the shop, this website is a constant work in
+          progress. It was built with Next.JS and Tailwind. All development was
+          done by Greg Guditus.
         </h2>
       </div>
 
