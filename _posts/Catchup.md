@@ -7,7 +7,7 @@ ogImage:
   url: "/assets/blog/catchup/exhaust in place with valance.webp"
 ---
 
-I have neglected to update this page for over 2 years. We haven't worked on the car continuosly in that time, too many side projects and distractions have come up.
+I have neglected to update this page for over 2 years. We haven't worked on the car continuously in that time, too many side projects and distractions have come up.
 
 For the sake of time this is going to be mostly pictures and only a bit of text to explain what's going on. These pictures begin in early February 2024 and run until late May 2026. I will split them up by topic rather than by chronological order.
 
@@ -26,7 +26,7 @@ A little bit of artistic touch to make it pop.
 
 ## Engine Mounts
 
-The engine mounts were also too tall. We set the engine on blocks to get a better idea of the height we needed. We also made a cardboard mockup of a battery to test different homes for it.
+The engine mounts were also too tall. We set the engine on blocks to get a better idea of the height we needed. We also made a cardboard mock-up of a battery to test different homes for it.
 
 ![Engine Mounts](/assets/blog/catchup/engineBayBatteryIdeas.webp)
 ![Engine Mounts](/assets/blog/catchup/startOfMotorMounts.webp)
@@ -56,7 +56,7 @@ Then we jigged it and built a hump for the new crossmember.
 ![Rear Floor](/assets/blog/catchup/rearFloorExhaustClearance.webp)
 ![Rear Floor](/assets/blog/catchup/rearFloorExhaustClearance2.webp)
 
-We also needed to make the rear wheel wells for the much wider rear tires. We used thick paper stock and pool noodles and aluminum foil tape.
+We also needed to make the rear wheel wells for the much wider rear tires. We used thick paper stock, pool noodles, and aluminum foil tape to make a "buck". I found that waxing the aluminum foil tape really helped with peeling off the "buck" from the finished part. I used the pool noodles to get a nice, radiused edge with a consistent bend.
 
 ![Rear Floor](/assets/blog/catchup/rearTireAtFullBump.webp)
 ![Rear Floor](/assets/blog/catchup/rearShockAtFullBump.webp)
@@ -103,7 +103,7 @@ We ended up cutting off almost an inch and a half from the widest parts on each 
 
 ## Torque Tube Tunnel
 
-Next we needed to make a cover for the diet bellhousing and the torque tube. In hindsight, this could have been done just as easily (maybe easier, and maybe better too) in fiberglass. We made it out of sheetmetal and it came out well. We kept it as tight to the transaxle as possible. We glued and riveted it into the floor once the whole tunnel was done. .
+Next we needed to make a cover for the diet bellhousing and the torque tube. In hindsight, this could have been done just as easily (maybe easier, and maybe better too) in fiberglass. We made it out of sheet metal and it came out well. We kept it as tight to the transaxle as possible. We glued and riveted it into the floor once the whole tunnel was done.
 
 ![T Tunnel](/assets/blog/catchup/bellhousingDoghouse.webp)
 ![T Tunnel](/assets/blog/catchup/bellhousingDoghouse2.webp)
@@ -164,7 +164,7 @@ Getting over the crossmember without hitting any obstacles was a mission, but we
 
 A big trick of the car will be the muffler.
 ![Exhaust](/assets/blog/catchup/mufflerAssembly.webp)
-From the diff, the exhaust comes to a T fitting, on one side towards the center of the car is a Magnaflow X Pipe muffer and the other side a valve. Normally the valve will be closed forcing the air through the muffler. Out of the muffler it comes to another T fitting, one side to the other end of the valve and the other side to the tailpipe.
+From the diff, the exhaust comes to a T fitting, on one side towards the center of the car is a Magnaflow X Pipe muffler and the other side a valve. Normally the valve will be closed forcing the air through the muffler. Out of the muffler it comes to another T fitting, one side to the other end of the valve and the other side to the tailpipe.
 ![Exhaust](/assets/blog/catchup/mufflerPositioning.webp)
 When we want some fun the valve will be open, allow the exhaust to flow freely out of the tailpipe. Like cutouts, but everything out the same pipe.
 The system was lightly inspired by the C6 and C7 Corvette loud exhaust mode (the tailpipes will actually be from a C7 Corvette too), but also by a couple of other cars that have done something similar.
