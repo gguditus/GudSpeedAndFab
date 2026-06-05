@@ -45,7 +45,7 @@ export default function Index() {
         <h2 className="m-3 md:m-5 lg:m-8">
           As with any project in the shop, this website is a constant work in
           progress. It was built with Next.JS and Tailwind. All development was
-          done by Greg Guditus.
+          done by Greg Guditus, without the use of generative AI.
         </h2>
       </div>
 
