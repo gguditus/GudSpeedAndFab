@@ -48,8 +48,8 @@ Then we jigged it and built a hump for the new crossmember.
 ![Rear Floor](/assets/blog/catchup/diffCrossmember.webp)
 ![Rear Floor](/assets/blog/catchup/rearFloorFitting.webp)
 
-![Rear Floor](/assets/blog/catchup/rearFloorMockup.webp)
-![Rear Floor](/assets/blog/catchup/rearFloorMockup2.webp)
+![Rear Floor](/assets/blog/catchup/rearFloorMockUp.webp)
+![Rear Floor](/assets/blog/catchup/rearFloorMockUp2.webp)
 ![Rear Floor](/assets/blog/catchup/rearFloorExhaustClearanceCut.webp)
 ![Rear Floor](/assets/blog/catchup/rearFloorExhaustClearanceReadyForLam.webp)
 ![Rear Floor](/assets/blog/catchup/rearFloorExhaustClearanceGluedIn.webp)
