@@ -1,10 +1,10 @@
 ---
 title: "Playing Catchup"
 excerpt: "After 2+ years, some Catchup might be necessary..."
-coverImage: "/assets/blog/catchup/exhaust in place with valance.webp"
+coverImage: "/assets/blog/catchup/exhaustInPlaceWithValance.webp"
 date: "2026-05-31"
 ogImage:
-  url: "/assets/blog/catchup/exhaust in place with valance.webp"
+  url: "/assets/blog/catchup/exhaustInPlaceWithValance.webp"
 ---
 
 I have neglected to update this page for over 2 years. We haven't worked on the car continuously in that time, too many side projects and distractions have come up.
@@ -127,7 +127,7 @@ The exhaust is, in my opinion, one of the most important parts of a car. It can 
 
 ![Exhaust](/assets/blog/catchup/c6HeaderMountedDriver.webp)
 ![Exhaust](/assets/blog/catchup/c6HeaderMountedDriver2.webp)
-![Exhaust](/assets/blog/catchup/c6HeaderMountedPass.webp)
+![Exhaust](/assets/blog/catchup/c6HeadersMountedPass.webp)
 
 Out of the headers we go almost immediately into a custom X Pipe.
 
@@ -153,22 +153,29 @@ The transmission crossmember was designed for cars that use a typical transmissi
 
 ![Exhaust](/assets/blog/catchup/cuttingCrossmember.webp)
 ![Exhaust](/assets/blog/catchup/exhaustThroughCrossmember.webp)
-![Exhaust](/assets/blog/catchup/exhaustThrouhgCrossmember2.webp)
+![Exhaust](/assets/blog/catchup/exhaustThroughCrossmemberMount.webp)
 
-Getting over the crossmember without hitting any obstacles was a mission, but we got it done eventually.
+Getting over the differential without hitting any obstacles was a mission, but we got it done eventually.
 
 ![Exhaust](/assets/blog/catchup/exhaustIdeasToGetOverDiff.webp)
 ![Exhaust](/assets/blog/catchup/exhaustIdeas.webp)
 
 ![Exhaust](/assets/blog/catchup/exhaustTackedUp.webp)
 
-A big trick of the car will be the muffler.
+A big trick of the car will be the muffler. The car won't have a spare tire, so this was the only room for any kind of fun activities like this.
+
 ![Exhaust](/assets/blog/catchup/mufflerAssembly.webp)
-From the diff, the exhaust comes to a T fitting, on one side towards the center of the car is a Magnaflow X Pipe muffler and the other side a valve. Normally the valve will be closed forcing the air through the muffler. Out of the muffler it comes to another T fitting, one side to the other end of the valve and the other side to the tailpipe.
+
+From the diff, the exhaust comes to a T fitting, on one side, towards the center of the car, is a Magnaflow X Pipe muffler and the other side a valve. Normally the valve will be closed forcing the air through the muffler. Out of the muffler it comes to another T fitting, one side to the other end of the valve and the other side to the tailpipe.
+
 ![Exhaust](/assets/blog/catchup/mufflerPositioning.webp)
-When we want some fun the valve will be open, allow the exhaust to flow freely out of the tailpipe. Like cutouts, but everything out the same pipe.
+
+When we want to have some fun, the valve will be open, allowing the exhaust to flow freely out of the tailpipe. Like cutouts, but everything out the same pipe.
+
 The system was lightly inspired by the C6 and C7 Corvette loud exhaust mode (the tailpipes will actually be from a C7 Corvette too), but also by a couple of other cars that have done something similar.
+
 I'm not worried about the restriction of the hard turns from the T fittings because the valve will bypass all of that.
+
 ![Exhaust](/assets/blog/catchup/mufflerPositioningClose.webp)
 ![Exhaust](/assets/blog/catchup/exhaustMufflerToDiff.webp)
 ![Exhaust](/assets/blog/catchup/exhaustOverDiff.webp)
@@ -187,6 +194,9 @@ Some extra pictures for the road.
 
 ![Accessory Drive](/assets/blog/catchup/prelimAccessoryDrive.webp)
 ![Accessory Drive](/assets/blog/catchup/preliminaryAccessoryDrive2.webp)
+
+As you can see, there is not a lot of room around the engine, dropping it with the new mounts lost us some room in that department. But, I found a single possible solution, and I kind of like the look.
+
 ![Accessory Drive](/assets/blog/catchup/compressorClearance.webp)
 
 Hopefully progress and updates will both be more consistent moving forward.
